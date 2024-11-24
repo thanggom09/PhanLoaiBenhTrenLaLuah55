@@ -1,0 +1,6 @@
+streamlit
+numpy
+tensorflow
+Pillow
+streamlit-option-menu
+streamlit-webrtc

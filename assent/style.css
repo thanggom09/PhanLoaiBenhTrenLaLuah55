@@ -1,0 +1,40 @@
+/* style.css - chứa toàn bộ CSS cho ứng dụng */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    margin-bottom: 20px;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    background-color: #eaeaea;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.menu-item {
+    font-size: 18px;
+    margin: 0 15px;
+    padding: 10px 20px;
+    text-align: center;
+    color: #2b2b2b;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #d5d5d5;
+}
+
+.menu-item-active {
+    background-color: #2b2b2b;
+    color: #ffffff;
+}
