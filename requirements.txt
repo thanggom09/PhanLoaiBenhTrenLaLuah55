@@ -1,17 +1,6 @@
-# Thư viện Streamlit để xây dựng giao diện web
 streamlit
-
-# Thư viện xử lý số liệu và mảng
 numpy
-
-# Thư viện xử lý ảnh
 Pillow
-
-# Thư viện xử lý ảnh và thao tác với OpenCV
-opencv-python
-
-# Thư viện TensorFlow cho việc tải và sử dụng mô hình học sâu
+opencv-python-headless
 tensorflow
-
-# Thư viện tạo menu tùy chọn trong Streamlit
 streamlit-option-menu
